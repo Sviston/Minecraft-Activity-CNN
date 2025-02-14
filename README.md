@@ -5,3 +5,5 @@ The project includes training and using a CNN neural network that classifies scr
 Due to the small dataset, overfitting occurred, making the model less effective when working with real images compared to those from the dataset.
 
 Although data augmentation is still shown in the Jupyter Notebook, it is not used for training the model because it negatively impacted the stability of the validation score. Additionally, such augmented screenshots are unlikely to appear in real-world scenarios.
+
+Dataset: https://www.kaggle.com/datasets/sqdartemy/minecraft-screenshots-dataset-with-features/data
